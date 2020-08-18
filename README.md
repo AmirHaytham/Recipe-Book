@@ -1,2 +1,2 @@
 # Recipe Book
-Recipe Managing App called RecipeBook with Nodejs along with PostgreSQL
+Recipe Book Managing App for Recipeing with Nodejs and PostgreSQL DB
